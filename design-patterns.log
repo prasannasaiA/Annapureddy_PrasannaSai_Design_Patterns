@@ -1,0 +1,31 @@
+Implementation of Factory Design Pattern from Creational Design patterns
+Inside Rectange: draw() method
+Inside Square: draw() method
+
+Implementation of Prototype Design Pattern from Creational Design patterns
+Employee Record
+Eid: 101 Name: John Designation: Software Engineer Salary: 50000.0
+Employee Record
+Eid: 101 Name: John Designation: Software Engineer Salary: 50000.0
+
+Implementation of Bridge Design Pattern from Structural Design Patterns
+Drawing a Circle of Color RED and of radius 10 with centre (100,100)
+Drawing a Circle of Color Blue and of radius 10 with centre (100,100)
+
+Implementation of Decorator Design Pattern from Structural Design Patterns
+Oval with Normal border
+Shape: Oval
+Oval with red Border
+Shape: Oval
+Border Color: Red
+Triangle with red Border
+Shape: Triangle
+Border Color: Red
+
+Implementation of Command Design Pattern from Behavioral Design Patterns.
+Stock [ Name: ABC,Quantity: 10 ] bought
+Stock [ Name: ABC,Quantity: 10 ] sold
+
+Implementation of Mediator Design Pattern from Behavioral Design Patterns
+Tue Mar 10 22:39:12 IST 2020 [Bob] : Hi! Alice....
+Tue Mar 10 22:39:12 IST 2020 [Alice] : Hello....Bob!!!
